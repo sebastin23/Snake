@@ -1,1 +1,1 @@
-https://xmayor-sys.github.io/Snake/
+https://sebastin23.github.io/Snake/
